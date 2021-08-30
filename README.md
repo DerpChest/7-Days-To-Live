@@ -14,3 +14,5 @@ You can distribute this game to websites like Newgrounds or Itch.io. But please 
 Thanks!
 
  And BTW, if you just want to play the game, go to the GameJolt Page "https://gamejolt.com/games/7DaysToLive/548381"!
+ 
+ Feel free to make mods and fan games of this game. Just fork this repo and modify the code there.
